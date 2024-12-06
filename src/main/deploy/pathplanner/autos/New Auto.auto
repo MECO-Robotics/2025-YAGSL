@@ -7,7 +7,37 @@
         {
           "type": "path",
           "data": {
-            "pathName": "New Path"
+            "pathName": "path 1"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "path 2"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "path 3"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "path 4"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "path 5"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "path 6"
           }
         }
       ]
