@@ -7,12 +7,12 @@
       "font": "Proggy Dotted",
       "fps": "120",
       "height": "1000",
-      "maximized": "0",
+      "maximized": "1",
       "style": "0",
       "userScale": "2",
       "width": "958",
-      "xpos": "1",
-      "ypos": "31"
+      "xpos": "0",
+      "ypos": "23"
     }
   },
   "Window": {
