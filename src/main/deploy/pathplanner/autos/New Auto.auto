@@ -7,37 +7,25 @@
         {
           "type": "path",
           "data": {
-            "pathName": "path 1"
+            "pathName": "1"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "path 2"
+            "pathName": "2"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "path 3"
+            "pathName": "1"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "path 4"
-          }
-        },
-        {
-          "type": "path",
-          "data": {
-            "pathName": "path 5"
-          }
-        },
-        {
-          "type": "path",
-          "data": {
-            "pathName": "path 6"
+            "pathName": "2"
           }
         }
       ]
